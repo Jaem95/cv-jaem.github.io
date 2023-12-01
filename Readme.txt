@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Resume of Jose Antonio Escobar Macias
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+December 2023
